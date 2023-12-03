@@ -9,5 +9,5 @@ This is a simple test app for testing locust. It has a simple endpoint that retu
 ## Created By
 Rodrigo Barba < Software Engineer >
 
-## Postdata
+## Post Data
 Change the database connection string in the file `config.py` to your own database connection string.
